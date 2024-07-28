@@ -1,5 +1,3 @@
-Sure! Here’s how you can fill it out:
-
 - 👋 Hi, I’m @nnhatdev
 - 👀 I’m interested in frontend development and AI engineering.
 - 🌱 I’m currently learning advanced frontend techniques and AI applications.
